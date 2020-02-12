@@ -69,7 +69,7 @@ export class LoginComponent implements OnInit {
                     console.log('Successfully logged in.', account);
                     this.account.authenticated = true;
                     this.router.navigateByUrl('/home');
-                    window.location.href = '/articles/about';
+                    window.location.href = '/articles/home';
                     // window.location.reload();
                 },
 
