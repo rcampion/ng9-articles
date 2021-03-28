@@ -18,7 +18,7 @@ Demonstrates Routing.
 
 Demonstrates Security.
 
-(https://www.zdslogic.com/articles).
+(http://aws.richardcampion.com/articles).
 
 ==========================================
 
